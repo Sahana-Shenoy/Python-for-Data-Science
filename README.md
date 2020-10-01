@@ -2,4 +2,4 @@
 
 Hands-on lab sessions in the process of learning Python for Data Science
 
-Credits: Cognitiveclass.ai (Python for data science PY0101EN)
+Credits: Cognitiveclass.ai (IBM) (Python for data science PY0101EN)
